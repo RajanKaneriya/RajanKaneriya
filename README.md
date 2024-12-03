@@ -1,6 +1,6 @@
 ## Hi 👋 , I'm Rajan Kaneriya.
-Senior Android Application at <a href="https://www.reasoninfotech.com/" rel="nofollow">Reson Infotech</a>
-
+ <a href="https://www.reasoninfotech.com/" rel="nofollow">Reson Infotech</a>
+<h3 class="heading-element" dir="auto"><p dir="auto"><em>Senior Android Application at <a href="https://www.reasoninfotech.com/" rel="nofollow">Reson Infotech</a></em></p></h3>
 A little more about me...
 ⚙️ I work on .java and .kt
 🔭 I’m currently working on Mobile Application Development (Android Native and Kotlin).
